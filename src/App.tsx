@@ -51,7 +51,7 @@ function App() {
       <div className="flex flex-col items-center justify-center flex-1 w-full px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 relative z-10 py-8 sm:py-12 md:py-16">
         <div className="text-center mx-auto flex flex-col items-center justify-center max-w-2xl">
           <img src={logo} alt="NUAGE Logo" className="w-3/5 sm:w-3/5 md:w-3/5 lg:w-4/5 xl:w-4/5 mb-8 sm:mb-12 md:mb-16 object-contain" />
-          <p className="text-sm sm:text-normal md:text-md lg:text-lg xl:text-xl mb-8 sm:mb-12 md:mb-16 lg:mb-20 xl:mb-24 font-PTSans text-black text-center px-2 sm:px-4">
+          <p className="text-xs sm:text-xs md:text-md lg:text-lg xl:text-xl mb-8 sm:mb-12 md:mb-16 lg:mb-20 xl:mb-24 font-PTSans text-black text-center px-2 sm:px-4">
             TIMELESS ELEGANCE COMING SOON
           </p>
           <button 
