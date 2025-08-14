@@ -52,7 +52,7 @@ function App() {
         <div className="text-center mx-auto flex flex-col items-center justify-center max-w-2xl">
           <img src={logo} alt="NUAGE Logo" className="w-3/5 sm:w-3/5 md:w-3/5 lg:w-4/5 xl:w-4/5 mb-8 sm:mb-12 md:mb-16 object-contain" />
           <p className="text-xs sm:text-xs md:text-md lg:text-lg xl:text-xl mb-8 sm:mb-12 md:mb-16 lg:mb-20 xl:mb-24 font-PTSans text-black text-center px-2 sm:px-4">
-            TIMELESS ELEGANCE COMING SOON
+            Launching soon
           </p>
           <button 
             onClick={() => setIsFormOpen(true)}
